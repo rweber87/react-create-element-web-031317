@@ -1,0 +1,24 @@
+{
+  "name": "react-create-element-web-031317",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rweber87/react-create-element-web-031317.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rweber87/react-create-element-web-031317/issues"
+  },
+  "homepage": "https://github.com/rweber87/react-create-element-web-031317#readme"
+}
